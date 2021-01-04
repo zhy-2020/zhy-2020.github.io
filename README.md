@@ -1,107 +1,106 @@
-# 星合の空
+# 深度学习可视化
 
-欢迎访问我的个人主页！下面向你介绍一下我自己吧\~
-
-<!-- .slide -->
-
-## Contact
-
-- Address: **Sun Yat-sen University - 132 Waihuan East Rd. - Guangzhou, China**
-- Phone: **+86 18756280097**
-- Site: **<https://wu-kan.cn>**
-
-<!-- .slide vertical=true -->
-
-- E-mail:
-  - **[i@wu-kan.cn](mailto:i@wu-kan.cn)**
-  - **[wukan3@mail2.sysu.edu.cn](mailto:wukan3@mail2.sysu.edu.cn)**
-- WeChat: **Wu-\_-Kan**
-- QQ: **942759535**
+小组成员：张泓潋、张瀚予、魏明达、袁弋
 
 <!-- .slide -->
 
-## Education
+## Content
 
-<!-- .slide vertical=true -->
-
-School of Data and Computer Science, Sun Yat-sen University, Guangzhou
-
-- Bachelor of Computer Science (Supercomputer Class), Sept. 2017 - Jul. 2021(expected)
-  - Principle of Supercomputer
-  - Parallel and Distributed Computing
-  - High Performance Computing
-  - Multicore Computing
+- Part a      CNN Explainer
+- Part b      GAN Lab 
 
 <!-- .slide -->
 
-## Projects
+## Part a      CNN Explainer
 
-<!-- .slide vertical=true -->
+![image-20210104202804015](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210104202804015.png)
 
-- [jekyll-theme-WuK](https://jekyll-theme-WuK.wu-kan.cn/)[![Star](https://img.shields.io/github/stars/wu-kan/wu-kan.github.io.svg)](https://github.com/wu-kan/wu-kan.github.io)[![Fork](https://img.shields.io/github/forks/wu-kan/wu-kan.github.io.svg)](https://github.com/wu-kan/wu-kan.github.io/fork)
-  - A static blog system with content-first, sliding sidebar theme.
-  - Powered by Jekyll.
+使用TensorFlow.js加载了一个10层的预训练模型
 
-<!-- .slide -->
-
-## Honors
-
-<!-- .slide vertical=true -->
-
-- **Gold Medal (Rank 4)**, [CCF Collegiate Computer Systems & Programming Contest](https://wu-kan.cn/_posts/2020-10-17-2020-CCF-CCSP%E7%AB%9E%E8%B5%9B-%E5%90%AB%E5%88%86%E8%B5%9B%E5%8C%BA%E7%AB%9E%E8%B5%9B/), South China Division, Oct. 2020
-- **First Scholarship**, Oct. 2020
-- **Silver Medal (Rank 2)**, The 8th "Intel Cup" [Parallel Application Challenge](http://sdcs.sysu.edu.cn/content/5501), Sept. 2020
-- **First Prize (Rank 3) & Winner Prize (Rank 5)**, [Priority Research Application](https://cas-pra.sugon.com/webnews/detail/205), Aug. 2020
-
-<!-- .slide vertical=true -->
-
-- **Top 0.05% in 11395**, [The 18th CCF Certified Software Professional](https://wu-kan.cn/_posts/2019-12-16-%E7%AC%AC%E5%8D%81%E5%85%AB%E6%AC%A1CCF%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E4%BB%B6%E8%83%BD%E5%8A%9B%E8%AE%A4%E8%AF%81/), Dec. 2019
-- **Silver Medal**, [ICPC Asia Regional Contest Xuzhou Site](https://wu-kan.cn/_posts/2019-11-04-%E5%86%8D%E8%A7%81-%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B/), Nov. 2019
-- **Second Scholarship**, Oct. 2019
-- **First Prize**, China Collegiate Programming Contest, Guangdong Division, May 2019
-
-<!-- .slide vertical=true -->
-
-- **Third Scholarship**, Oct. 2018
-- **First Prize**, China Collegiate Programming Contest, Guangdong Division, May 2018
+交互方面使用 Svelte 作为框架并使用 D3.js 进行可视化
 
 <!-- .slide -->
 
-## Leadership
+![image-20210104202946681](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210104202946681.png)
 
-- Leader of [SYSU-SCC](https://github.com/SYSU-SCC)
-
-<!-- .slide -->
-
-## Blogs
-
-- [基于 Jekyll 搭建个人博客](https://wu-kan.cn/_posts/2019-01-18-%E5%9F%BA%E4%BA%8EJekyll%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/)
-- [我的算法竞赛模板](https://wu-kan.cn/_posts/2019-02-04-%E6%88%91%E7%9A%84%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B%E6%A8%A1%E6%9D%BF/)
-- [这一年的一点感想](https://wu-kan.cn/_posts/2019-07-18-%E8%BF%99%E4%B8%80%E5%B9%B4%E7%9A%84%E4%B8%80%E7%82%B9%E6%84%9F%E6%83%B3/)
-- [再见，算法竞赛！](https://wu-kan.cn/_posts/2019-11-04-%E5%86%8D%E8%A7%81-%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B/)
-
-<!-- .slide vertical=true -->
-
-- [Markdown 写作心得](https://wu-kan.cn/_posts/2020-01-18-Markdown%E5%86%99%E4%BD%9C%E5%BF%83%E5%BE%97/)
-- [今日此时所想之事](https://wu-kan.cn/_posts/2020-01-24-%E4%BB%8A%E6%97%A5%E6%AD%A4%E6%97%B6%E6%89%80%E6%83%B3%E4%B9%8B%E4%BA%8B/)
-- [十月九日](http://wu-kan.cn/_posts/2020-10-09-%E5%8D%81%E6%9C%88%E4%B9%9D%E6%97%A5/)
+TensorFlow.js是一个开源的基于硬件加速的JavaScript库，用于训练和部署机器学习模型。TensorFlow.js 可以为你提供高性能的、易于使用的机器学习构建模块，允许你在浏览器上训练模型，或以推断模式运行预训练的模型。
 
 <!-- .slide -->
 
-## Skills
+![preview](https://pic1.zhimg.com/v2-0f4a1268171a38fc4b058822dee8ccec_r.jpg)
 
-<!-- .slide vertical=true -->
+D3 是最流行的可视化库之一，它被很多其他的表格插件所使用。它允许绑定任意数据到DOM，然后将数据驱动转换应用到Document中。你可以使用它用一个数组创建基本的HTML表格，或是利用它的流体过度和交互，用相似的数据创建惊人的SVG条形图。
 
-- **C/C++**, Familiar
-  - **OpenMP**, Familiar
-  - **MPI**, Familiar&Learning
-  - **CUDA**, Familiar&Learning
-- **Python**, Familiar
+<!-- .slide -->
 
-<!-- .slide vertical=true -->
+![image-20210104203733483](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210104203733483.png)
 
-- **Markdown**, Familiar
-- **$\LaTeX$**, Familiar
-- **Linux**, Familiar&Learning
-- **Git**, Familiar
-- **VSCode**, Familiar
+[CNN Explainer](https://poloclub.github.io/cnn-explainer/)  
+
+<!-- .slide -->
+
+## Part b  GAN Lab
+
+GAN Lab仅在两个维度上展示 GAN 学习点分布的过程。
+
+![image-20210104204126701](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210104204126701.png)
+
+可视化 2D (x,y) 空间的概率分布比可视化高维空间的概率分布要简单得多。
+
+<!-- .slide -->
+
+![image-20210104204212834](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210104204212834.png)
+
+网站提供四种数据分布类型，也可以自定义自己的数据分布，可以使用预训练模型。
+
+<!-- .slide -->
+
+![img](https://image.jiqizhixin.com/uploads/editor/20b3b2e6-4e04-42a6-a376-0e438e2c17ae/1536577470769.png)
+
+「model overview graph」展示了 GAN 的架构、主要组件及其连接方式，另外还可视化了这些组件生成的结果。
+
+ 「layered distributions」覆盖了「model overview graph」视图中的组件的可视化，因此你可以在分析模型时更容易地对比组件的输出。
+
+<!-- .slide -->
+
+随着训练的进行，假样本的位置会不断更新。
+
+![img](https://image.jiqizhixin.com/uploads/editor/6b218984-9ce5-4dfc-aba6-8c93b2401939/02.gif)
+
+
+
+<!-- .slide -->
+
+![img](https://image.jiqizhixin.com/uploads/editor/2968c6a6-fa77-408f-9493-740e94b19d3a/1536577470885.png)
+
+生成器的数据转换可视化为流形，将输入噪声（最左边）转换为假样本（最右边）。
+
+<!-- .slide -->
+
+![image-20210104204440870](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210104204440870.png)
+
+鉴别器的性能可以通过2Dheatmap解释。
+
+<!-- .slide -->
+
+- 交互式超参数调整
+
+点击「编辑」图标（![img](https://image.jiqizhixin.com/uploads/editor/0feb0ce0-fa51-4710-866b-e826202493dc/1536577471174.png)）来展示独立的超参数，然后在训练期间实时地编辑它们。
+
+- 用户定义数据分布
+
+如果你不喜欢我们提供的数据分布，可以通过点击数据分布列表最后的图标（![img](https://image.jiqizhixin.com/uploads/editor/dfeb4467-08c4-4e1e-a205-ffc8a2e330bb/1536577471337.png)），编辑你想要的数据分布。
+
+- 慢镜头模式
+
+动画太快看花眼？别担心，你可以点击「慢动作」图标（![img](https://image.jiqizhixin.com/uploads/editor/331fad22-7096-44c2-bbb1-fa12944d5c29/1536577471433.png)）进入慢动作模式。
+
+- 手动逐步执行
+
+如果你想进行更多的控制，可以点击该图标（![img](https://image.jiqizhixin.com/uploads/editor/50713379-dad9-4249-bc36-7fb0e72350ae/1536577471477.png)）一步步手动训练单个迭代。
+
+[GAN Lab](https://poloclub.github.io/ganlab/) 
+
+<!-- .slide -->
+
+Thank you for your listening!# Data_Visualization
