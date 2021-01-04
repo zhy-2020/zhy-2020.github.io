@@ -1,34 +1,5 @@
-title: wu-kan # 站点标题
-description: | # 头像背后的信息（html格式），<br/>代表换行
-  SYSU超算17级在读<br/>
-  水野爱<br/>
-  HPC<br/>
-  田宫例四驱车<br/>
-  <a href="mailto:i@wu-kan.cn">
-    <i class="fas fa-envelope"></i>
-  </a>
-  <a href="https://github.com/wu-kan">
-    <i class="fab fa-github"></i>
-  </a>
-  <a href="https://codeforces.com/profile/WuK">
-    <i class="fas fa-chart-bar"></i>
-  </a>
-  <a href="https://vjudge.net/user/WuK">
-    <i class="fas fa-smile"></i>
-  </a>
-  <a href="https://www.zhihu.com/people/wu.kan/activities">
-    <i class="fab fa-zhihu"></i>
-  </a>
-  <iframe
-    src="https://music.163.com/outchain/player?type=0&id=155059595&auto=0&height=32"
-    width=100%
-    height=52
-    frameborder="no"
-    border="0"
-    marginwidth="0"
-    marginheight="0"
-  ></iframe>
-url: https://wu-kan.cn # 你的域名，例如 https://wu-kan.github.io
+title: zhy # 站点标题
+url: https://zhy-2020.github.io/ # 你的域名，例如 https://wu-kan.github.io
 baseurl: "" # 假如你的博客是建在某个目录下的，请在这里加上目录名，并且下面配置的所有链接里的`/assets`前也要加，即`/your_baseurl/assets`。这一项结尾不要有'/'。
 
 defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/front-matter-defaults/>功能进行配置
@@ -77,72 +48,6 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
               <script
                 async="async"
                 src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.1/js/all.min.js"
-              ></script>
-            - | # 引入live2d看板娘！不需要可以把这一项都删掉
-              <link
-                rel="stylesheet"
-                href="https://cdn.jsdelivr.net/gh/Dreamer-Paul/Pio@2.4/static/pio.min.css"
-              />
-              <script
-                async="async"
-                src="https://cdn.jsdelivr.net/combine/gh/Dreamer-Paul/Pio@2.4/static/l2d.min.js,gh/Dreamer-Paul/Pio@2.4/static/pio.min.js"
-                onload='
-                  let pio_container = document.createElement("div");
-                  pio_container.classList.add("pio-container");
-                  pio_container.classList.add("right");
-                  pio_container.style.bottom = "-2rem";
-                  pio_container.style.zIndex = "1";
-                  document.body.insertAdjacentElement("beforeend", pio_container);
-                  let pio_action = document.createElement("div");
-                  pio_action.classList.add("pio-action");
-                  pio_container.insertAdjacentElement("beforeend", pio_action);
-                  let pio_canvas = document.createElement("canvas");
-                  pio_canvas.id = "pio";
-                  pio_canvas.style.width = "14rem";
-                  pio_canvas.width = "600";
-                  pio_canvas.height = "800";
-                  pio_container.insertAdjacentElement("beforeend", pio_canvas);
-                  let pio = new Paul_Pio({
-                    "mode": "fixed",
-                    "hidden": true,
-                    "night": "for(let i=7; i<16; ++i) if(document.body.classList.contains(`theme-base-0`+i.toString(16))) { document.body.classList.remove(`theme-base-0`+i.toString(16)); document.body.classList.add(`theme-base-0`+((i-6)%9+7).toString(16)); break; }",
-                    "content": {
-                      "link": ["https:\/\/jekyll-theme-WuK.wu-kan.cn"],
-                      "skin": ["要换成我的朋友吗？", "让她放个假吧~"],
-                      "hidden": true,
-                      "custom": [{
-                        "selector": "a",
-                        "type": "link",
-                      }, {
-                        "selector": ".sidebar-toggle",
-                        "text": "打开侧边栏叭~"
-                      }, {
-                        "selector": ".effect-info",
-                        "text": "哇，你发现了什么！"
-                      }, {
-                        "selector": "#sidebar-search-input",
-                        "text": "想搜索什么呢？很多干货哦！"
-                      }, {
-                        "selector": "#toc",
-                        "text": "这是目录~"
-                      }, {
-                        "selector": ".page-title",
-                        "text": "这是标题~"
-                      }, {
-                        "selector": ".v",
-                        "text": "评论没有审核，要对自己的发言负责哦~"
-                      }]
-                    },
-                    "model": [
-                      "https:\/\/cdn.jsdelivr.net/gh/imuncle/live2d/model/33/model.2018.bls-winter.json",
-                      "https:\/\/cdn.jsdelivr.net/gh/imuncle/live2d/model/platelet-2/model.json",
-                      "https:\/\/cdn.jsdelivr.net/gh/imuncle/live2d/model/xiaomai/xiaomai.model.json",
-                      "https:\/\/cdn.jsdelivr.net/gh/imuncle/live2d/model/mashiro/seifuku.model.json",
-                      "https:\/\/cdn.jsdelivr.net/gh/imuncle/live2d/model/Violet/14.json",
-                      "https:\/\/cdn.jsdelivr.net/gh/xiaoski/live2d_models_collection/Kobayaxi/Kobayaxi.model.json",
-                      "https:\/\/cdn.jsdelivr.net/gh/xiaoski/live2d_models_collection/mikoto/mikoto.model.json",
-                      "https:\/\/cdn.jsdelivr.net/gh/xiaoski/live2d_models_collection/uiharu/uiharu.model.json"]
-                  });'
               ></script>
             - | # 百度爬虫推送，http站点使用 http://push.zhanzhang.baidu.com/push.js
               <script
@@ -417,13 +322,6 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 <div>
                   <i class="fas fa-copyright fa-fw"></i>
                   2017-2020 WuK
-                </div>
-              - | # 我的备案信息，请你的网站删掉这一项。互联网非法外之地！
-                <div>
-                  <i class="fas fa-info-circle fa-fw"></i>
-                  <a href="http://beian.miit.gov.cn">
-                    粤ICP备 20024947号
-                  </a>
                 </div>
               - | # 公安网备信息
                 <div>
