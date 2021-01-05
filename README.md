@@ -64,7 +64,7 @@ GAN Lab仅在两个维度上展示 GAN 学习点分布的过程。
 
 随着训练的进行，假样本的位置会不断更新。
 
-<div style="align: center">![02.gif](https://i.loli.net/2021/01/04/UIDwBAo9L8elmCN.gif)</div>
+![02.gif w:5cm](https://i.loli.net/2021/01/04/UIDwBAo9L8elmCN.gif)
 
 <!-- .slide -->
 
