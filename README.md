@@ -77,9 +77,9 @@ GAN Lab仅在两个维度上展示 GAN 学习点分布的过程。
 <!-- .slide -->
 
 
-![1536577471000.png](https://image.jiqizhixin.com/uploads/editor/f0d1ac90-d738-477b-94ae-cc0666935c23/1536577471000.png)
+<center>![1536577471000.png](https://image.jiqizhixin.com/uploads/editor/f0d1ac90-d738-477b-94ae-cc0666935c23/1536577471000.png)</center>
 
-鉴别器的性能可以通过2Dheatmap解释。
+<center>鉴别器的性能可以通过2Dheatmap解释。</center>
 
 <!-- .slide -->
 
@@ -89,12 +89,12 @@ GAN Lab仅在两个维度上展示 GAN 学习点分布的过程。
 
 - 用户定义数据分布
 
-如果你不喜欢我们提供的数据分布，可以通过点击数据分布列表最后的图标（![img](https://image.jiqizhixin.com/uploads/editor/dfeb4467-08c4-4e1e-a205-ffc8a2e330bb/1536577471337.png)），编辑你想要的数据分布。
+如果你不喜欢我们提供的数据分布，可以通过点击数据分布列表最后的图标（![img](https://image.jiqizhixin.com/uploads/editor/dfeb4467-08c4-4e1e-a205-ffc8a2e330bb/1536577471337.png)），编辑想要的数据分布。
 <!-- .slide -->
 
 - 慢镜头模式
 
-动画太快看花眼？别担心，你可以点击「慢动作」图标（![img](https://image.jiqizhixin.com/uploads/editor/331fad22-7096-44c2-bbb1-fa12944d5c29/1536577471433.png)）进入慢动作模式。
+如果动画太快，可以点击「慢动作」图标（![img](https://image.jiqizhixin.com/uploads/editor/331fad22-7096-44c2-bbb1-fa12944d5c29/1536577471433.png)）进入慢动作模式。
 
 - 手动逐步执行
 
