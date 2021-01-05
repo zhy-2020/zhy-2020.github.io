@@ -45,8 +45,6 @@ GAN Lab仅在两个维度上展示 GAN 学习点分布的过程。
 
 ![image-20210104204126701.png](https://i.loli.net/2021/01/04/LiyEVacTHe5USdw.png)
 
-可视化 2D (x,y) 空间的概率分布比可视化高维空间的概率分布要简单得多。
-
 <!-- .slide -->
 
 ![image-20210104204212834.png](https://i.loli.net/2021/01/04/qnXw3eJbkVhzl74.png)
