@@ -55,7 +55,7 @@ GAN Lab仅在两个维度上展示 GAN 学习点分布的过程。
 
 <!-- .slide -->
 
-<img src="https://image.jiqizhixin.com/uploads/editor/20b3b2e6-4e04-42a6-a376-0e438e2c17ae/1536577470769.png" style="zoom: 175%;" />
+<img src="https://i.loli.net/2021/01/05/2sYFwp5qoTSQtyf.png" alt="img" style="zoom:175%;" />
 
 <center>图 1：选择的数据分布被展示在两个位置。</center>
 
@@ -67,13 +67,13 @@ GAN Lab仅在两个维度上展示 GAN 学习点分布的过程。
 
 <!-- .slide -->
 
-<img src="https://image.jiqizhixin.com/uploads/editor/2968c6a6-fa77-408f-9493-740e94b19d3a/1536577470885.png" alt="img" style="zoom:150%;" />
+<img src="https://i.loli.net/2021/01/05/D8HkF36MRKUXWlo.png" alt="1536577470885.png" style="zoom:150%;" />
 
 生成器的数据转换可视化为流形，将输入噪声（最左边）转换为假样本（最右边）。
 
 <!-- .slide -->
 
-<img src="https://image.jiqizhixin.com/uploads/editor/f0d1ac90-d738-477b-94ae-cc0666935c23/1536577471000.png" alt="1536577471000.png" style="zoom:225%;" />
+<img src="https://i.loli.net/2021/01/05/fs95YEacqyokV4S.png" alt="image-20210104204440870.png" style="zoom:225%;" />
 
 鉴别器的性能可以通过2Dheatmap解释。
 
@@ -81,16 +81,16 @@ GAN Lab仅在两个维度上展示 GAN 学习点分布的过程。
 
 - 交互式超参数调整
 
-点击「编辑」图标（<img src="https://image.jiqizhixin.com/uploads/editor/0feb0ce0-fa51-4710-866b-e826202493dc/1536577471174.png" alt="img" style="zoom:150%;" />）来展示独立的超参数，然后在训练期间实时地编辑它们。
+点击「编辑」图标（<img src="https://i.loli.net/2021/01/05/lQmZx3eRDCOcg12.png" alt="1536577471174.png" style="zoom:150%;" />）来展示独立的超参数，然后在训练期间实时地编辑它们。
 
 - 用户定义数据分布
 
-如果你不喜欢我们提供的数据分布，可以通过点击数据分布列表最后的图标（<img src="https://image.jiqizhixin.com/uploads/editor/dfeb4467-08c4-4e1e-a205-ffc8a2e330bb/1536577471337.png" alt="img" style="zoom:150%;" />），编辑你想要的数据分布。
+如果你不喜欢我们提供的数据分布，可以通过点击数据分布列表最后的图标（<img src="https://i.loli.net/2021/01/05/23RPLu7dn94Ce1c.png" alt="1536577471337.png" style="zoom:150%;" />），编辑你想要的数据分布。
 <!-- .slide -->
 
 - 慢镜头模式
 
-如果动画太快，可以点击「慢动作」图标（<img src="https://image.jiqizhixin.com/uploads/editor/331fad22-7096-44c2-bbb1-fa12944d5c29/1536577471433.png" alt="img" style="zoom:150%;" />）进入慢动作模式。
+如果动画太快，可以点击「慢动作」图标（<img src="https://i.loli.net/2021/01/05/DTt7KxnCechi6kf.png" alt="1536577471433.png" style="zoom:150%;" />）进入慢动作模式。
 
 - 手动逐步执行
 
