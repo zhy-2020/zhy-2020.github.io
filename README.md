@@ -13,15 +13,14 @@
 
 ## Part a      CNN Explainer
 
-![image-20210104202804015](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210104202804015.png)
+![image-20210104202804015.png](https://i.loli.net/2021/01/04/xp21Sz75EeCXtIB.png)
 
 使用TensorFlow.js加载了一个10层的预训练模型
-
 交互方面使用 Svelte 作为框架并使用 D3.js 进行可视化
 
 <!-- .slide -->
 
-![image-20210104202946681](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210104202946681.png)
+![image-20210104202946681.png](https://i.loli.net/2021/01/04/6CPhjoYFzyW1qvJ.png)
 
 TensorFlow.js是一个开源的基于硬件加速的JavaScript库，用于训练和部署机器学习模型。TensorFlow.js 可以为你提供高性能的、易于使用的机器学习构建模块，允许你在浏览器上训练模型，或以推断模式运行预训练的模型。
 
@@ -33,7 +32,7 @@ D3 是最流行的可视化库之一，它被很多其他的表格插件所使�
 
 <!-- .slide -->
 
-![image-20210104203733483](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210104203733483.png)
+![image-20210104203733483.png](https://i.loli.net/2021/01/04/Xs9qhRBS4eOWDwL.png)
 
 [CNN Explainer](https://poloclub.github.io/cnn-explainer/)  
 
@@ -43,19 +42,19 @@ D3 是最流行的可视化库之一，它被很多其他的表格插件所使�
 
 GAN Lab仅在两个维度上展示 GAN 学习点分布的过程。
 
-![image-20210104204126701](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210104204126701.png)
+![image-20210104204126701.png](https://i.loli.net/2021/01/04/LiyEVacTHe5USdw.png)
 
 可视化 2D (x,y) 空间的概率分布比可视化高维空间的概率分布要简单得多。
 
 <!-- .slide -->
 
-![image-20210104204212834](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210104204212834.png)
+![image-20210104204212834.png](https://i.loli.net/2021/01/04/qnXw3eJbkVhzl74.png)
 
 网站提供四种数据分布类型，也可以自定义自己的数据分布，可以使用预训练模型。
 
 <!-- .slide -->
 
-![img](https://image.jiqizhixin.com/uploads/editor/20b3b2e6-4e04-42a6-a376-0e438e2c17ae/1536577470769.png)
+![1536577470769.png](https://i.loli.net/2021/01/04/Db53gxhYMXVNwrn.png)
 
 「model overview graph」展示了 GAN 的架构、主要组件及其连接方式，另外还可视化了这些组件生成的结果。
 
@@ -65,7 +64,7 @@ GAN Lab仅在两个维度上展示 GAN 学习点分布的过程。
 
 随着训练的进行，假样本的位置会不断更新。
 
-![img](https://image.jiqizhixin.com/uploads/editor/6b218984-9ce5-4dfc-aba6-8c93b2401939/02.gif)
+![02.gif](https://i.loli.net/2021/01/04/UIDwBAo9L8elmCN.gif)
 
 
 
@@ -77,7 +76,8 @@ GAN Lab仅在两个维度上展示 GAN 学习点分布的过程。
 
 <!-- .slide -->
 
-![image-20210104204440870](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210104204440870.png)
+
+![1536577470885.png](https://i.loli.net/2021/01/04/T1CS5IzZdbGsiVf.png)
 
 鉴别器的性能可以通过2Dheatmap解释。
 
@@ -90,6 +90,7 @@ GAN Lab仅在两个维度上展示 GAN 学习点分布的过程。
 - 用户定义数据分布
 
 如果你不喜欢我们提供的数据分布，可以通过点击数据分布列表最后的图标（![img](https://image.jiqizhixin.com/uploads/editor/dfeb4467-08c4-4e1e-a205-ffc8a2e330bb/1536577471337.png)），编辑你想要的数据分布。
+<!-- .slide -->
 
 - 慢镜头模式
 
@@ -103,4 +104,4 @@ GAN Lab仅在两个维度上展示 GAN 学习点分布的过程。
 
 <!-- .slide -->
 
-Thank you for your listening!# Data_Visualization
+Thank you for your listening!
