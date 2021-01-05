@@ -94,7 +94,7 @@ GAN Lab仅在两个维度上展示 GAN 学习点分布的过程。
 
 - 手动逐步执行
 
-如果你想进行更多的控制，可以点击该图标（<img src="https://image.jiqizhixin.com/uploads/editor/50713379-dad9-4249-bc36-7fb0e72350ae/1536577471477.png" alt="img" style="zoom:150%;" />）一步步手动训练单个迭代。
+如果你想进行更多的控制，可以点击该图标（<img src="https://i.loli.net/2021/01/05/bWjs7SOv51zGQYF.png" alt="img" style="zoom:150%;" />）一步步手动训练单个迭代。
 
 [GAN Lab](https://poloclub.github.io/ganlab/) 
 
