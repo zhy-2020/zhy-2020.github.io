@@ -24,13 +24,13 @@
 
 ![image-20210104202946681.png](https://i.loli.net/2021/01/04/6CPhjoYFzyW1qvJ.png)
 
-TensorFlow.js是一个开源的基于硬件加速的JavaScript库，用于训练和部署机器学习模型。TensorFlow.js 可以为你提供高性能的、易于使用的机器学习构建模块，允许你在浏览器上训练模型，或以推断模式运行预训练的模型。
+TensorFlow.js是一个开源的基于硬件加速的JavaScript库，用于训练和部署机器学习模型。
 
 <!-- .slide -->
 
 ![preview](https://pic1.zhimg.com/v2-0f4a1268171a38fc4b058822dee8ccec_r.jpg)
 
-D3 是最流行的可视化库之一，它被很多其他的表格插件所使用。它允许绑定任意数据到DOM，然后将数据驱动转换应用到Document中。你可以使用它用一个数组创建基本的HTML表格，或是利用它的流体过度和交互，用相似的数据创建惊人的SVG条形图。
+D3 是最流行的可视化库之一，它被很多其他的表格插件所使用。它允许绑定任意数据到DOM，然后将数据驱动转换应用到Document中。
 
 <!-- .slide -->
 
@@ -54,7 +54,7 @@ GAN Lab仅在两个维度上展示 GAN 学习点分布的过程。
 
 <!-- .slide -->
 
-![1536577470769.png](https://i.loli.net/2021/01/04/Db53gxhYMXVNwrn.png)
+<img src="https://i.loli.net/2021/01/04/Db53gxhYMXVNwrn.png" alt="1536577470769.png" style="zoom: 150%;" />
 
 「model overview graph」展示了 GAN 的架构、主要组件及其连接方式，另外还可视化了这些组件生成的结果。
 
@@ -74,7 +74,7 @@ GAN Lab仅在两个维度上展示 GAN 学习点分布的过程。
 
 <!-- .slide -->
 
-<div style="align: center">![1536577471000.png](https://image.jiqizhixin.com/uploads/editor/f0d1ac90-d738-477b-94ae-cc0666935c23/1536577471000.png)</div>
+<img src="https://image.jiqizhixin.com/uploads/editor/f0d1ac90-d738-477b-94ae-cc0666935c23/1536577471000.png" alt="1536577471000.png" style="zoom:150%;" />
 
 鉴别器的性能可以通过2Dheatmap解释。
 
@@ -91,7 +91,7 @@ GAN Lab仅在两个维度上展示 GAN 学习点分布的过程。
 
 - 慢镜头模式
 
-动画太快看花眼？别担心，你可以点击「慢动作」图标（![img](https://image.jiqizhixin.com/uploads/editor/331fad22-7096-44c2-bbb1-fa12944d5c29/1536577471433.png)）进入慢动作模式。
+如果动画太快，可以点击「慢动作」图标（![img](https://image.jiqizhixin.com/uploads/editor/331fad22-7096-44c2-bbb1-fa12944d5c29/1536577471433.png)）进入慢动作模式。
 
 - 手动逐步执行
 
