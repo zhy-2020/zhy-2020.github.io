@@ -73,7 +73,7 @@ GAN Lab仅在两个维度上展示 GAN 学习点分布的过程。
 
 <!-- .slide -->
 
-<img src="https://i.loli.net/2021/01/05/fs95YEacqyokV4S.png" alt="image-20210104204440870.png" style="zoom:200%;" />
+<img src="https://i.loli.net/2021/01/05/fs95YEacqyokV4S.png" alt="image-20210104204440870.png" style="zoom:100%;" />
 
 鉴别器的性能可以通过2Dheatmap解释。
 
