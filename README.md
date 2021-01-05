@@ -70,14 +70,14 @@ GAN Lab仅在两个维度上展示 GAN 学习点分布的过程。
 
 <!-- .slide -->
 
-![img](https://image.jiqizhixin.com/uploads/editor/2968c6a6-fa77-408f-9493-740e94b19d3a/1536577470885.png)
+![1536577470885.png](https://image.jiqizhixin.com/uploads/editor/2968c6a6-fa77-408f-9493-740e94b19d3a/1536577470885.png)
 
 生成器的数据转换可视化为流形，将输入噪声（最左边）转换为假样本（最右边）。
 
 <!-- .slide -->
 
 
-![1536577470885.png](https://i.loli.net/2021/01/04/T1CS5IzZdbGsiVf.png)
+![1536577471000.png](https://image.jiqizhixin.com/uploads/editor/f0d1ac90-d738-477b-94ae-cc0666935c23/1536577471000.png)
 
 鉴别器的性能可以通过2Dheatmap解释。
 
