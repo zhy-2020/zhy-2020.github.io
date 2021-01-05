@@ -14,7 +14,7 @@
 
 ## Part a      CNN Explainer
 
-      ![image-20210104202804015.png](https://i.loli.net/2021/01/04/xp21Sz75EeCXtIB.png)
+<div align=center>![image-20210104202804015.png](https://i.loli.net/2021/01/04/xp21Sz75EeCXtIB.png)
 
 使用TensorFlow.js加载了一个10层的预训练模型
 
@@ -22,19 +22,19 @@
 
 <!-- .slide -->
 
-![image-20210104202946681.png](https://i.loli.net/2021/01/04/6CPhjoYFzyW1qvJ.png)
+<div align=center>![image-20210104202946681.png](https://i.loli.net/2021/01/04/6CPhjoYFzyW1qvJ.png)
 
 TensorFlow.js是一个开源的基于硬件加速的JavaScript库，用于训练和部署机器学习模型。TensorFlow.js 可以为你提供高性能的、易于使用的机器学习构建模块，允许你在浏览器上训练模型，或以推断模式运行预训练的模型。
 
 <!-- .slide -->
 
-![preview](https://pic1.zhimg.com/v2-0f4a1268171a38fc4b058822dee8ccec_r.jpg)
+<div align=center>![preview](https://pic1.zhimg.com/v2-0f4a1268171a38fc4b058822dee8ccec_r.jpg)
 
 D3 是最流行的可视化库之一，它被很多其他的表格插件所使用。它允许绑定任意数据到DOM，然后将数据驱动转换应用到Document中。你可以使用它用一个数组创建基本的HTML表格，或是利用它的流体过度和交互，用相似的数据创建惊人的SVG条形图。
 
 <!-- .slide -->
 
-![image-20210104203733483.png](https://i.loli.net/2021/01/04/Xs9qhRBS4eOWDwL.png)
+<div align=center>![image-20210104203733483.png](https://i.loli.net/2021/01/04/Xs9qhRBS4eOWDwL.png)
 
 [CNN Explainer](https://poloclub.github.io/cnn-explainer/)  
 
@@ -44,17 +44,17 @@ D3 是最流行的可视化库之一，它被很多其他的表格插件所使�
 
 GAN Lab仅在两个维度上展示 GAN 学习点分布的过程。
 
-![image-20210104204126701.png](https://i.loli.net/2021/01/04/LiyEVacTHe5USdw.png)
+<div align=center>![image-20210104204126701.png](https://i.loli.net/2021/01/04/LiyEVacTHe5USdw.png)
 
 <!-- .slide -->
 
-![image-20210104204212834.png](https://i.loli.net/2021/01/04/qnXw3eJbkVhzl74.png)
+<div align=center>![image-20210104204212834.png](https://i.loli.net/2021/01/04/qnXw3eJbkVhzl74.png)
 
 网站提供四种数据分布类型，也可以自定义自己的数据分布，可以使用预训练模型。
 
 <!-- .slide -->
 
-![1536577470769.png](https://i.loli.net/2021/01/04/Db53gxhYMXVNwrn.png)
+<div align=center>![1536577470769.png](https://i.loli.net/2021/01/04/Db53gxhYMXVNwrn.png)
 
 「model overview graph」展示了 GAN 的架构、主要组件及其连接方式，另外还可视化了这些组件生成的结果。
 
@@ -64,21 +64,20 @@ GAN Lab仅在两个维度上展示 GAN 学习点分布的过程。
 
 随着训练的进行，假样本的位置会不断更新。
 
-![02.gif](https://i.loli.net/2021/01/04/UIDwBAo9L8elmCN.gif)
+<div align=center>![02.gif](https://i.loli.net/2021/01/04/UIDwBAo9L8elmCN.gif)
 
 
 
 <!-- .slide -->
 
-![1536577470885.png](https://image.jiqizhixin.com/uploads/editor/2968c6a6-fa77-408f-9493-740e94b19d3a/1536577470885.png)
+<div align=center>![1536577470885.png](https://image.jiqizhixin.com/uploads/editor/2968c6a6-fa77-408f-9493-740e94b19d3a/1536577470885.png)
 
 生成器的数据转换可视化为流形，将输入噪声（最左边）转换为假样本（最右边）。
 
 <!-- .slide -->
 
 
-<center>![1536577471000.png](https://image.jiqizhixin.com/uploads/editor/f0d1ac90-d738-477b-94ae-cc0666935c23/1536577471000.png)</center>
-
+<div align=center>![1536577471000.png](https://image.jiqizhixin.com/uploads/editor/f0d1ac90-d738-477b-94ae-cc0666935c23/1536577471000.png)
 <center>鉴别器的性能可以通过2Dheatmap解释。</center>
 
 <!-- .slide -->
