@@ -54,11 +54,11 @@ GAN Lab仅在两个维度上展示 GAN 学习点分布的过程。
 
 <!-- .slide -->
 
-<img src="https://i.loli.net/2021/01/04/Db53gxhYMXVNwrn.png" alt="1536577470769.png" style="zoom: 150%;" />
+<img src="https://image.jiqizhixin.com/uploads/editor/20b3b2e6-4e04-42a6-a376-0e438e2c17ae/1536577470769.png" style="zoom: 150%;" />
 
-「model overview graph」展示了 GAN 的架构、主要组件及其连接方式，另外还可视化了这些组件生成的结果。
+「model overview graph」展示了 GAN 的架构、主要组件及其连接方式，并可视化了这些组件生成的结果。
 
- 「layered distributions」覆盖了「model overview graph」视图中的组件的可视化，因此你可以在分析模型时更容易地对比组件的输出。
+ 「layered distributions」覆盖了「model overview graph」视图中的组件的可视化，便于对比组件的输出。
 
 <!-- .slide -->
 
