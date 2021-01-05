@@ -15,7 +15,7 @@
 
 ## Part a      CNN Explainer
 
-<img src="https://i.loli.net/2021/01/04/xp21Sz75EeCXtIB.png" alt="image-20210104202804015.png" style="zoom:125%;" />
+<img src="https://i.loli.net/2021/01/04/xp21Sz75EeCXtIB.png" alt="image-20210104202804015.png" style="zoom:100%;" />
 
 使用TensorFlow.js加载了一个10层的预训练模型。
 
